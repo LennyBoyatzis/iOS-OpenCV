@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "2BFFE31E1CB105980030559B"
-               BuildableName = "OpenCV-HelloWorld.app"
-               BlueprintName = "OpenCV-HelloWorld"
-               ReferencedContainer = "container:OpenCV-HelloWorld.xcodeproj">
+               BlueprintIdentifier = "2BFFE34B1CB123D20030559B"
+               BuildableName = "SuperCool Logo Detector.app"
+               BlueprintName = "SuperCool Logo Detector"
+               ReferencedContainer = "container:SuperCool Logo Detector.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2BFFE31E1CB105980030559B"
-            BuildableName = "OpenCV-HelloWorld.app"
-            BlueprintName = "OpenCV-HelloWorld"
-            ReferencedContainer = "container:OpenCV-HelloWorld.xcodeproj">
+            BlueprintIdentifier = "2BFFE34B1CB123D20030559B"
+            BuildableName = "SuperCool Logo Detector.app"
+            BlueprintName = "SuperCool Logo Detector"
+            ReferencedContainer = "container:SuperCool Logo Detector.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2BFFE31E1CB105980030559B"
-            BuildableName = "OpenCV-HelloWorld.app"
-            BlueprintName = "OpenCV-HelloWorld"
-            ReferencedContainer = "container:OpenCV-HelloWorld.xcodeproj">
+            BlueprintIdentifier = "2BFFE34B1CB123D20030559B"
+            BuildableName = "SuperCool Logo Detector.app"
+            BlueprintName = "SuperCool Logo Detector"
+            ReferencedContainer = "container:SuperCool Logo Detector.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2BFFE31E1CB105980030559B"
-            BuildableName = "OpenCV-HelloWorld.app"
-            BlueprintName = "OpenCV-HelloWorld"
-            ReferencedContainer = "container:OpenCV-HelloWorld.xcodeproj">
+            BlueprintIdentifier = "2BFFE34B1CB123D20030559B"
+            BuildableName = "SuperCool Logo Detector.app"
+            BlueprintName = "SuperCool Logo Detector"
+            ReferencedContainer = "container:SuperCool Logo Detector.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

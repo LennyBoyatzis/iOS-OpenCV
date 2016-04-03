@@ -1,6 +1,6 @@
 //
 //  AppDelegate.m
-//  OpenCV-HelloWorld
+//  SuperCool Logo Detector
 //
 //  Created by Leo Boyatzis on 3/04/2016.
 //  Copyright © 2016 Leo Boyatzis. All rights reserved.
